@@ -1,2 +1,2 @@
 # shopee-food-analytics
-Dashboard analytics untuk menganalisis hotspot order Shopee Food di Jakarta Timur
+Dashboard analytics untuk menganalisis hotspot order Shopee Food di Jabodetabek
